@@ -1,22 +1,74 @@
+.container{
+width: 50%;
+margin: 0 auto 0 auto;
+background-color: whitesmoke;
+background-image: url("../image/new.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+background-size:cover;
+}
+.name
+{
+box-sizing: border-box;
+margin-top: 20px;
+padding-top: 10px;
+margin-bottom: 10px;
+border: none;
+}
+.connect {
+box-sizing: border-box;
+margin-top: 10px;
+margin-bottom: 10px;
+padding-top: 20px;
+padding-bottom: 20px;
+border:none;
+}
+.obj
+{
+    box-sizing: border-box;
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-bottom:10px;
+    padding-bottom: 10px;
+    border:none;
+}
+.tablename {
+    color: yellow;
+    box-sizing: boxder-box;
+    margin-top:10px;
+    padding-top:20px;
+    border: dotted;
+}
+.skill{
+    box-sizing: border-box;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+}
+table.priya{
+    color: royalblue;
+    box-sizing: border-box;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20;
+    margin-bottom: 20px;
+    border: none;
+}
 h1{
+
     color: skyblue;
     text-align:center;
-}
-h3{
-    color: yellow;
-}
-h7{
-    color: orange;
-}
-h4{
-    color: pink;
 }
 th{
     color :red;
 }
-tr{
-    color: green;
+h2{
+    color :green;
 }
-h5{
-    color:greenyellow;
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
