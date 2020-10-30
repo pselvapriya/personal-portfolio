@@ -2,7 +2,7 @@
 width: 50%;
 margin: 0 auto 0 auto;
 background-color: whitesmoke;
-background-image: url("../image/new.jpg");
+background-image: url("../image/new1.jpg");
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-position: center;
@@ -42,8 +42,8 @@ border:none;
 }
 .skill{
     box-sizing: border-box;
-    margin-top: 10px;
-    padding-top: 10px;
+    margin-left: 10px;
+    padding-left: 10px;
     padding-bottom: 10px;
     border: none;
 }
